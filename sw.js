@@ -1,19 +1,19 @@
-const CACHE_NAME = "nd-college-cache-v2";
+const CACHE_NAME = "nd-college-cache-v3";
 
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/cover-page.html",
-  "/style.css",
-  "/cover-page.css",
-  "/animations.js",
-  "/cover-page.js",
-  "/forms.js",
-  "/misc.js",
-  "/navigation.js",
-  "/swiper-init.js",
-  "/theme.js",
-  "/logo.png",
+  "./",
+  "./index.html",
+  "./cover-page.html",
+  "./style.css",
+  "./cover-page.css",
+  "./animations.js",
+  "./cover-page.js",
+  "./forms.js",
+  "./misc.js",
+  "./navigation.js",
+  "./swiper-init.js",
+  "./theme.js",
+  "./logo.png",
   "https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css",
   "https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js",
   "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
