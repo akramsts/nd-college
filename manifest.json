@@ -1,0 +1,26 @@
+{
+  "name": "ND College, Purnea",
+  "short_name": "ND College",
+  "description": "A premier private institution affiliated with Purnea University offering graduation courses.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
